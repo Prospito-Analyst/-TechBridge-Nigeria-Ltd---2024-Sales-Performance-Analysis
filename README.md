@@ -1,3 +1,4 @@
+![Dashboard Preview](Dashboard Preview.png)
 # -TechBridge-Nigeria-Ltd---2024-Sales-Performance-Analysis
 **📄Introduction**
 
